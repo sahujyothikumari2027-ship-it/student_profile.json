@@ -1,0 +1,117 @@
+{
+  "career_paths": [
+    {
+      "career": "Full Stack Developer",
+      "description": "Develop complete web applications including frontend, backend and databases.",
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "Git",
+        "GitHub",
+        "Deployment"
+      ],
+      "beginner_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "intermediate_skills": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "advanced_skills": [
+        "Authentication",
+        "REST API Architecture",
+        "Cloud Deployment",
+        "Performance Optimization"
+      ],
+      "job_roles": [
+        "Junior Full Stack Developer",
+        "Web Developer",
+        "Frontend Developer",
+        "Backend Developer"
+      ]
+    },
+    {
+      "career": "Data Scientist",
+      "description": "Analyze data and build machine learning models to solve real-world problems.",
+      "required_skills": [
+        "Python",
+        "Statistics",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "SQL",
+        "Machine Learning",
+        "Data Visualization"
+      ],
+      "job_roles": [
+        "Data Analyst",
+        "Junior Data Scientist",
+        "Machine Learning Intern"
+      ]
+    },
+    {
+      "career": "Cybersecurity Analyst",
+      "description": "Protect systems, networks and data from security threats.",
+      "required_skills": [
+        "Networking",
+        "Linux",
+        "Python",
+        "Cybersecurity Fundamentals",
+        "Threat Detection",
+        "Security Tools",
+        "Ethical Hacking"
+      ],
+      "job_roles": [
+        "Cybersecurity Analyst",
+        "Security Intern",
+        "SOC Analyst"
+      ]
+    },
+    {
+      "career": "UI/UX Designer",
+      "description": "Design user-friendly and visually effective digital experiences.",
+      "required_skills": [
+        "UI Design",
+        "UX Research",
+        "Wireframing",
+        "Prototyping",
+        "Figma",
+        "Design Thinking",
+        "User Research"
+      ],
+      "job_roles": [
+        "UI Designer",
+        "UX Designer",
+        "Product Designer"
+      ]
+    },
+    {
+      "career": "Software Developer",
+      "description": "Design, develop, test and maintain software applications.",
+      "required_skills": [
+        "Programming",
+        "Data Structures",
+        "Algorithms",
+        "Object-Oriented Programming",
+        "Database Management",
+        "Git",
+        "Problem Solving"
+      ],
+      "job_roles": [
+        "Software Developer",
+        "Software Engineer",
+        "Application Developer"
+      ]
+    }
+  ]
+}
