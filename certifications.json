@@ -1,0 +1,44 @@
+{
+  "certifications": [
+    {
+      "career": "Full Stack Developer",
+      "recommended": [
+        "HTML and CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Git and GitHub",
+        "Cloud Fundamentals"
+      ]
+    },
+    {
+      "career": "Data Scientist",
+      "recommended": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Machine Learning",
+        "Data Analysis"
+      ]
+    },
+    {
+      "career": "Cybersecurity Analyst",
+      "recommended": [
+        "Networking Fundamentals",
+        "Cybersecurity Fundamentals",
+        "Linux",
+        "Ethical Hacking"
+      ]
+    },
+    {
+      "career": "UI/UX Designer",
+      "recommended": [
+        "UI/UX Fundamentals",
+        "Figma",
+        "Design Thinking",
+        "User Research"
+      ]
+    }
+  ]
+}
