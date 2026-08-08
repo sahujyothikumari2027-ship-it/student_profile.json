@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "title": "Student Portfolio",
+      "career": "Full Stack Developer",
+      "difficulty": "Beginner",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "skills_demonstrated": [
+        "Frontend Development",
+        "Responsive Design",
+        "Basic JavaScript"
+      ],
+      "outcome": "Personal portfolio website"
+    },
+    {
+      "title": "Online Art Gallery",
+      "career": "Full Stack Developer",
+      "difficulty": "Intermediate",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "skills_demonstrated": [
+        "CRUD Operations",
+        "REST APIs",
+        "Database Management",
+        "Backend Development"
+      ],
+      "outcome": "Complete web-based art gallery"
+    },
+    {
+      "title": "Career Guidance Platform",
+      "career": "Full Stack Developer",
+      "difficulty": "Advanced",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "AI API"
+      ],
+      "skills_demonstrated": [
+        "Full Stack Development",
+        "AI Integration",
+        "Authentication",
+        "Database Management"
+      ],
+      "outcome": "AI-powered career guidance platform"
+    },
+    {
+      "title": "Student Task Management System",
+      "career": "Full Stack Developer",
+      "difficulty": "Intermediate",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "skills_demonstrated": [
+        "CRUD",
+        "REST API",
+        "Authentication",
+        "Database Design"
+      ],
+      "outcome": "Task management web application"
+    }
+  ]
+}
