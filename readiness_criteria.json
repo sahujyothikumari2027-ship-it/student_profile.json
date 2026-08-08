@@ -1,0 +1,52 @@
+{
+  "career_readiness": {
+    "criteria": [
+      {
+        "category": "Technical Skills",
+        "weight": 30
+      },
+      {
+        "category": "Projects",
+        "weight": 20
+      },
+      {
+        "category": "Problem Solving",
+        "weight": 15
+      },
+      {
+        "category": "Communication",
+        "weight": 10
+      },
+      {
+        "category": "Resume",
+        "weight": 10
+      },
+      {
+        "category": "Interview Preparation",
+        "weight": 15
+      }
+    ],
+    "levels": [
+      {
+        "minimum_score": 0,
+        "maximum_score": 39,
+        "status": "Beginner"
+      },
+      {
+        "minimum_score": 40,
+        "maximum_score": 59,
+        "status": "Developing"
+      },
+      {
+        "minimum_score": 60,
+        "maximum_score": 79,
+        "status": "Career Ready"
+      },
+      {
+        "minimum_score": 80,
+        "maximum_score": 100,
+        "status": "Highly Ready"
+      }
+    ]
+  }
+}
