@@ -1,0 +1,42 @@
+{
+  "weekly_plan": {
+    "study_hours_per_day": 2,
+    "days": [
+      {
+        "day": "Monday",
+        "activity": "Learn new concepts",
+        "duration_minutes": 60
+      },
+      {
+        "day": "Tuesday",
+        "activity": "Practice coding",
+        "duration_minutes": 90
+      },
+      {
+        "day": "Wednesday",
+        "activity": "Learn new concepts",
+        "duration_minutes": 60
+      },
+      {
+        "day": "Thursday",
+        "activity": "Solve practice problems",
+        "duration_minutes": 90
+      },
+      {
+        "day": "Friday",
+        "activity": "Build project features",
+        "duration_minutes": 120
+      },
+      {
+        "day": "Saturday",
+        "activity": "Project development",
+        "duration_minutes": 120
+      },
+      {
+        "day": "Sunday",
+        "activity": "Revision and self-assessment",
+        "duration_minutes": 120
+      }
+    ]
+  }
+}
