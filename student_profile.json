@@ -1,0 +1,16 @@
+{
+  "student": {
+    "name": "",
+    "education_level": "",
+    "degree": "",
+    "branch": "",
+    "academic_year": "",
+    "current_skills": [],
+    "soft_skills": [],
+    "career_goal": "",
+    "interests": [],
+    "study_hours_per_day": 2,
+    "target_timeline_months": 12,
+    "preferred_learning_method": ""
+  }
+}
