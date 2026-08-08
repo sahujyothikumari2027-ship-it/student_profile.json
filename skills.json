@@ -1,0 +1,81 @@
+{
+  "skills": [
+    {
+      "name": "HTML",
+      "category": "Frontend",
+      "priority": "High",
+      "level": "Beginner",
+      "estimated_learning_weeks": 2
+    },
+    {
+      "name": "CSS",
+      "category": "Frontend",
+      "priority": "High",
+      "level": "Beginner",
+      "estimated_learning_weeks": 3
+    },
+    {
+      "name": "JavaScript",
+      "category": "Programming",
+      "priority": "Very High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 6
+    },
+    {
+      "name": "React",
+      "category": "Frontend",
+      "priority": "High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 5
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "priority": "High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 4
+    },
+    {
+      "name": "Express.js",
+      "category": "Backend",
+      "priority": "High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 3
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database",
+      "priority": "High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 3
+    },
+    {
+      "name": "Git",
+      "category": "Tools",
+      "priority": "Medium",
+      "level": "Beginner",
+      "estimated_learning_weeks": 2
+    },
+    {
+      "name": "REST APIs",
+      "category": "Backend",
+      "priority": "High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 3
+    },
+    {
+      "name": "Problem Solving",
+      "category": "Soft Skill",
+      "priority": "High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 8
+    },
+    {
+      "name": "Communication",
+      "category": "Soft Skill",
+      "priority": "High",
+      "level": "Intermediate",
+      "estimated_learning_weeks": 6
+    }
+  ]
+}
