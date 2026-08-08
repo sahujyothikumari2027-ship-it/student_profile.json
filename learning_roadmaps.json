@@ -1,0 +1,99 @@
+{
+  "roadmaps": [
+    {
+      "career": "Full Stack Developer",
+      "duration_months": 12,
+      "months": [
+        {
+          "month": 1,
+          "focus": "HTML, CSS and Web Fundamentals",
+          "skills": ["HTML", "CSS"],
+          "outcome": "Build responsive static websites"
+        },
+        {
+          "month": 2,
+          "focus": "JavaScript Fundamentals",
+          "skills": ["JavaScript"],
+          "outcome": "Create interactive web pages"
+        },
+        {
+          "month": 3,
+          "focus": "Advanced JavaScript",
+          "skills": ["JavaScript", "REST APIs"],
+          "outcome": "Build API-based applications"
+        },
+        {
+          "month": 4,
+          "focus": "React",
+          "skills": ["React"],
+          "outcome": "Build component-based frontend applications"
+        },
+        {
+          "month": 5,
+          "focus": "Node.js and Express",
+          "skills": ["Node.js", "Express.js"],
+          "outcome": "Create backend applications and APIs"
+        },
+        {
+          "month": 6,
+          "focus": "MongoDB",
+          "skills": ["MongoDB"],
+          "outcome": "Create and manage application databases"
+        },
+        {
+          "month": 7,
+          "focus": "Full Stack Integration",
+          "skills": [
+            "React",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+          ],
+          "outcome": "Build a complete full stack application"
+        },
+        {
+          "month": 8,
+          "focus": "Authentication and Security",
+          "skills": [
+            "JWT",
+            "Authentication",
+            "Authorization"
+          ],
+          "outcome": "Implement secure user authentication"
+        },
+        {
+          "month": 9,
+          "focus": "Projects",
+          "skills": ["Full Stack Development"],
+          "outcome": "Complete two portfolio projects"
+        },
+        {
+          "month": 10,
+          "focus": "Git, GitHub and Deployment",
+          "skills": ["Git", "GitHub", "Deployment"],
+          "outcome": "Deploy projects and maintain repositories"
+        },
+        {
+          "month": 11,
+          "focus": "DSA and Interview Preparation",
+          "skills": [
+            "Data Structures",
+            "Algorithms",
+            "Problem Solving"
+          ],
+          "outcome": "Prepare for technical interviews"
+        },
+        {
+          "month": 12,
+          "focus": "Resume and Job Preparation",
+          "skills": [
+            "Resume Building",
+            "Communication",
+            "Interview Skills"
+          ],
+          "outcome": "Become internship and job ready"
+        }
+      ]
+    }
+  ]
+}
